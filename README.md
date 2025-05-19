@@ -32,8 +32,3 @@ This project is a Classification of email to check if the send email was  a spam
 * Model- It contains the Trained Model Code and pickle file.
 
 
-
-![Working Server Image](https://github.com/soumyajit4419/Spam_Email_Classifier/blob/image/nonspam.png?raw=true)
-![Working Server Image](https://github.com/soumyajit4419/Spam_Email_Classifier/blob/image/spam.png?raw=true)
-
-
